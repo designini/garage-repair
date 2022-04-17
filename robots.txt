@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://designini.github.io/garage-repair/sitemapx.xml
